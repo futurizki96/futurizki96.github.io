@@ -1,0 +1,54 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+*{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	box-sizing:border-box;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size:16px;
+	color: #000000;
+	background: #fff;
+    max-width:1920px;
+    margin:0 auto;
+	overflow-x:hidden;
+}
+
+.hemat h2,
+.standar h2,
+.anjay h2,
+.testi h2,
+.premium h2 {
+    font-size: 1.8rem;
+    font-weight: 600rem;
+	font-family: "Inconsolata", monospace;
+}
+.body {
+    justify-content: center !important;
+}
+/* media query */
+/* Extra Large */
+@media (max-width: 1200px) {
+
+}
+
+/* laptop */
+@media (max-width: 992px) {
+
+}
+/* tablet */
+@media (max-width: 768px) {
+
+}
+/* mobile */
+@media (max-width: 576px) {
+
+
+}
